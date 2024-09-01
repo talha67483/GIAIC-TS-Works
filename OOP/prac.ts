@@ -78,6 +78,8 @@
 // }
 // arithimaticFunc(5,4)
 
+// Temperature Scale 
+
 function fahrenheitTemp(calcius: number) {
 
     console.log(`today temperature is =  ${9 * calcius / 5 + 32}`);
