@@ -6,8 +6,8 @@
 
 // function  myInformation(): void {
 //     console.log(" my name is talha bin hussain ")
-//     console.log(" i from pakistan  ")
-//     console.log(" i recently doing development  ")
+//     console.log(" i am from pakistan  ")
+//     console.log(" recently i am  doing web development  ")
 // }
 // myInformation();
     
