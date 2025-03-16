@@ -5,6 +5,6 @@
 function myInformation() {
     console.log(" my name is talha bin hussain ");
     console.log(" i from pakistan  ");
-    console.log(" i recently doing development  ");
+    console.log(" i recently doing web development  ");
 }
 myInformation();
